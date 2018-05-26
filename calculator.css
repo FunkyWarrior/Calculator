@@ -1,0 +1,32 @@
+.button {
+  width : 33.3%;
+  height : 13%;
+  background-color: #FBC02D;
+  border-Radius: 10%;
+  border: 1.25px solid #4A148C;
+  font-size : 110%;
+}
+#div {
+  padding : 5px;
+  width : 240px;
+  height : 289px;
+  position : absolute;
+  top: 5%;
+  right: 45%;
+  border-Radius: 3%;
+  border : solid 2px black;
+  box-Shadow : 5px 5px 20px black;
+  background-color: #F8BBD0;
+}
+#C {
+  background-color: #B0BEC5;
+}
+#delete {
+  background-color: black;
+}
+#field {
+width : 238px;
+height : 20px;
+border : solid 1px black;
+background-color: #FAFAFA;
+}
